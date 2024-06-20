@@ -2,6 +2,7 @@ form{
     width: 60%;
     border: solid 1px;
     padding: 10px;
+    
   
 }
 
@@ -14,11 +15,12 @@ input{
 }
 button{
     padding: 12px 5px;
-    width: 96%;
+    width: 16%;
     margin-top: 2%;
     border: none;
     border-radius: 5px;
     background-color: rgb(97, 164, 97);
     color: white;
+    margin-left:80%;
   
 }
